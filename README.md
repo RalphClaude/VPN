@@ -2,11 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1> VPN Setup and Usage (Proton VPN) </h1>
 
-
-<h2>Video Demonstration</h2>
 
 <h2>Environments and Technologies Used</h2>
 
