@@ -1,6 +1,5 @@
 <p align="center">
-<img src=" ![image 17](https://github.com/RalphClaude/VPN/assets/64559790/0152260d-4160-4c23-8e8a-93e9fd2fa511)
-" alt="osTicket logo"/>
+<img src="" alt="osTicket logo"/>
 </p>
 ![ProtoVPN](https://github.com/RalphClaude/VPN/assets/64559790/b5c0ea41-349e-4680-b69a-2ccd791c4b0d)
 
