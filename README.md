@@ -1,7 +1,4 @@
-![image 17](https://github.com/RalphClaude/VPN/assets/64559790/31316bc8-1162-4c26-8297-3b9b6bd7cf48)
-
-
-
+![image](https://github.com/RalphClaude/VPN/assets/64559790/2da3f6be-dd51-4111-92d0-3dbcd33fd394)
 
 <h1> VPN Setup and Usage (Proton VPN) </h1>
 
