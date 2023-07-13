@@ -1,13 +1,18 @@
+<h1> Encrypting internet traffic around the world using Azure </h1>
+
 ![image](https://github.com/RalphClaude/VPN/assets/64559790/2da3f6be-dd51-4111-92d0-3dbcd33fd394)
 
-<h1> VPN Setup and Usage (Proton VPN) </h1>
-
+<h2>Introduction </h2>
+In this project, I set up a VPN using ProtonVPN while working with Azure's virtual machines to make the computer that I'm using to appear as though I am surfing the internet in another country. I did this by  
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Proton VPN
+- Azure
+- Virtual machines
 
 <h2>Operating Systems Used </h2>
 
@@ -15,11 +20,9 @@
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- ProtonVPN
+- Windows 10
+- Azure
 
 <h2>Configuration Steps</h2>
 
