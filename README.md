@@ -38,10 +38,10 @@ In this project, I set up a VPN using ProtonVPN while working with Azure's virtu
 ![Untitled document](https://github.com/RalphClaude/VPN/assets/64559790/8e74e78e-4e34-4bd9-8d28-cff26954da7b)
 <br />
 
-<p>
-![Untitled document](https://github.com/RalphClaude/VPN/assets/64559790/c13ccf9d-0f1c-4d6b-b623-d98a0a0ca9dd)
+<p> 3. Login into the virtual machine using a remote desktop connection </p>  
 
-</p>
+![Untitled document (2)](https://github.com/RalphClaude/VPN/assets/64559790/f893ad3f-6f74-4d41-91c7-f096e23909db)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
