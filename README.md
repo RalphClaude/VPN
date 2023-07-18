@@ -32,7 +32,7 @@ In this project, I set up a VPN using ProtonVPN while working with Azure's virtu
 ![image 17](https://github.com/RalphClaude/VPN/assets/64559790/1b0a0e98-e151-4d5d-b20b-9497b0ead64f)
 
 <p>
-2. Create a virtual machine using Azure 
+2. Create a virtual machine using Azure but change the location to any other region that is not your precise location 
 </p>
 
 ![Untitled document](https://github.com/RalphClaude/VPN/assets/64559790/8e74e78e-4e34-4bd9-8d28-cff26954da7b)
