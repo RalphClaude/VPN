@@ -25,14 +25,17 @@ In this project, I set up a VPN using ProtonVPN while working with Azure's virtu
 - Azure
 
 <h2>Configuration Steps</h2>
-
 <p>
+1. Type in www.WhatismyIPaddress.com
+</p>
+
 ![image 17](https://github.com/RalphClaude/VPN/assets/64559790/1b0a0e98-e151-4d5d-b20b-9497b0ead64f)
 
-</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Create a virtual machine using Azure 
 </p>
+
+![Untitled document](https://github.com/RalphClaude/VPN/assets/64559790/8e74e78e-4e34-4bd9-8d28-cff26954da7b)
 <br />
 
 <p>
@@ -51,4 +54,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-![Untitled document](https://github.com/RalphClaude/VPN/assets/64559790/8e74e78e-4e34-4bd9-8d28-cff26954da7b)
+
