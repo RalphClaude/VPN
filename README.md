@@ -26,7 +26,7 @@ In this project, I set up a VPN using ProtonVPN while working with Azure's virtu
 
 <h2>Configuration Steps</h2>
 <p>
-1. Type in www.WhatismyIPaddress.com
+1. Type in www.WhatismyIPaddress.com in the URL or any operating sy
 </p>
 
 ![image 17](https://github.com/RalphClaude/VPN/assets/64559790/1b0a0e98-e151-4d5d-b20b-9497b0ead64f)
