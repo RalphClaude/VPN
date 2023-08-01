@@ -38,7 +38,7 @@ In this project, I set up a VPN using ProtonVPN while working with Azure's virtu
 ![Untitled document](https://github.com/RalphClaude/VPN/assets/64559790/8e74e78e-4e34-4bd9-8d28-cff26954da7b)
 <br />
 
-<p> 3. Login into the virtual machine using a remote desktop connection </p>  
+<p> 3. Once the virtual machine has been deployed copy the IP address in the remote desktop connection program on your computer. </p>  
 
 ![Untitled document (2)](https://github.com/RalphClaude/VPN/assets/64559790/f893ad3f-6f74-4d41-91c7-f096e23909db)
 
